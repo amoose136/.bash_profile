@@ -15,6 +15,6 @@ This is the theme I use for my terminal. It makes the colors not suck on both li
 
 # Screenshots
 
-![alt text](https://github.com/amoose136/bash-config/raw/master/src/images/screen.png "qlk demo")
-![alt text](https://github.com/amoose136/bash-config/raw/master/src/images/screen2.png "sshb demo")
+![qlk demo](https://github.com/amoose136/bash-config/raw/master/images/sceen.png "qlk demo")
+![sshb demo](https://github.com/amoose136/bash-config/raw/master/images/screen2.png "sshb demo")
   
